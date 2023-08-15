@@ -1,4 +1,4 @@
-package August09_MyWork;
+package august09_MyWorks;
 
 public class C03 {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package August07_MyWork;
-
-import java.util.Arrays;
+package august07_MyWorks;
 
 public class C04 {
     public static void main(String[] args) {

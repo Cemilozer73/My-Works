@@ -1,4 +1,4 @@
-package August14_MyWork;
+package august14_MyWorks;
 
 import java.util.Scanner;
 

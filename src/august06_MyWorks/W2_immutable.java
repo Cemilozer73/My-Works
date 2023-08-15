@@ -1,4 +1,4 @@
-package August06_MyWorks;
+package august06_MyWorks;
 
 import java.util.ArrayList;
 import java.util.List;

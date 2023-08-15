@@ -1,4 +1,4 @@
-package August08_MyWork;
+package august08_MyWorks;
 
 public class C01_StringStringBuilder {
 

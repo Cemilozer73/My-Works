@@ -1,4 +1,4 @@
-package August06_MyWorks;
+package august06_MyWorks;
 
 public class W1_immutable {
     public static void main(String[] args) {

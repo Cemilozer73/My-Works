@@ -1,4 +1,4 @@
-package August14_MyWork;
+package august14_MyWorks;
 
 public class C01_tekrar {
     public static void main(String[] args) {

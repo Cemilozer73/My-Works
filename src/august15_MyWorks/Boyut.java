@@ -10,11 +10,11 @@ public class Boyut {
         boyutSorgula();
     }
 
-    static void boyutSorgula() {
+    public static void boyutSorgula() {
         String kahveBoyutu;
         do {
-            System.out.println("Kahveniz hangi boyutta olsun? (Ekstra boy - Büyük boy - orta boy - küçük boy olarak giriniz.)");
             Scanner scan = new Scanner(System.in);
+            System.out.println("Kahveniz hangi boyutta olsun? (Ekstra boy - Büyük boy - orta boy - küçük boy olarak giriniz.)");
             kahveBoyutu = scan.nextLine();
 
             if (!kahveBoyutu.equalsIgnoreCase("ekstra boy") &&
